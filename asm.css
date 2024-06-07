@@ -1,0 +1,85 @@
+.header{
+    max-width: 100%;
+    background-color: orange;
+
+}
+a{
+    text-decoration: none;
+}
+.header ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+
+}
+.header .ten{
+    text-align: center;
+}
+.ten h1{
+    color: #fff;
+    font-size: 3rem;
+}
+.header li{
+    margin-left: 80px;
+}
+.header a{
+    font-size: 2rem;
+    color: #fff;
+}
+.header a:hover{
+    color:black;
+    background-color:white;
+}
+.mainimg{
+    margin-top: 80px;
+
+}
+.mainimg .menu{
+    text-align: center;
+}
+.menu h2{
+    font-size: 2.4rem;
+}
+.intro p{
+    font-size: 1.4rem;
+}
+.anh1{
+    text-align: center;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+    background-color: orange;
+    
+}
+.text h1{
+    font-size: 1.8rem;
+
+}
+.icon ul{
+    display: flex;
+
+}
+.icon ul li a img{
+    width: 40px;
+    height: 40px;
+
+}
+.icon ul li{
+    margin-left: 30px;
+    list-style: none;
+}
+.location{
+    display: flex;
+
+}
+.location img{
+    width: 20px;
+    height: 30px;
+}
+.footerright label{
+    margin-right: 5px;
+}
+
+
